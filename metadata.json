@@ -1,0 +1,7 @@
+{
+  "version": "2026-01-23T11:47:00Z+v1",
+  "calendar_url": "https://raw.githubusercontent.com/salone1/JKC/main/month_start.json",
+  "checksum": "sha256:REPLACE_WITH_ACTUAL_SHA256",
+  "published_at": "2026-01-23T11:47:00Z",
+  "notes": "Use this metadata for quick version checks before downloading the full month_start.json"
+}
